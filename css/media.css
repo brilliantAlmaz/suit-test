@@ -39,7 +39,7 @@
   }
   .header__btn-body {
     z-index: 50;
-    bottom: 20px;
+    bottom: 100px;
     position: absolute;
     left: 0;
   }
